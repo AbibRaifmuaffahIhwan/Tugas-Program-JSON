@@ -1,0 +1,42 @@
+{
+    "Angkatan": 2021,
+    "Kelas": "B",
+    "MataKuliah":"API",
+    "Mahasiswa":[
+        {"nama":"Abib", "NIM":"F55121043", "Nilai":{
+            "Kehadiran": 10,
+            "Tugas" : 18,
+            "UTS" : 30,
+            "UAS" : 35,
+            "Nilai Akhir" : 93
+        }, "Kelulusan":true},
+        {"nama":"Sahrul", "NIM":"F55121040", "Nilai":{
+            "Kehadiran": 8,
+            "Tugas" : 20,
+            "UTS" : 30,
+            "UAS" : 27,
+            "Nilai Akhir" : 85
+        }, "Kelulusan":true},
+        {"nama":"Afifah", "NIM":"F55121056", "Nilai":{
+            "Kehadiran": 8,
+            "Tugas" : 15,
+            "UTS" : 25,
+            "UAS" : 20,
+            "Nilai Akhir" : 68
+        }, "Kelulusan":false},
+        {"nama":"Isra", "NIM":"F55121058", "Nilai":{
+            "Kehadiran":5,
+            "Tugas":15,
+            "UTS" : 20,
+            "UAS" : 25,
+            "Nilai Akhir" : 65
+        }, "Kelulusan":false},
+        {"nama":"Muammar", "NIM":"F55121060", "Nilai":{
+            "Kehadiran":10,
+            "Tugas":19,
+            "UTS" : 33,
+            "UAS" : 31,
+            "Nilai Akhir" : 93
+        }, "Kelulusan":true}
+    ]
+}
